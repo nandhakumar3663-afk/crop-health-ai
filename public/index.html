@@ -980,6 +980,16 @@
 <script>
 
 
+// =========================================================
+// RENDER BACKEND URL
+// =========================================================
+// Replace this with your actual Render deployment URL
+// Example: "https://crop-health-api.onrender.com"
+
+const RENDER_BACKEND_URL =
+    "https://YOUR-RENDER-APP.onrender.com";
+
+
 // ========================================================
 // FILE INPUT
 // ========================================================
@@ -1121,12 +1131,12 @@ async function analyzeCrop() {
 
 
         // =================================================
-        // THIS IS THE API CALL
+        // API CALL TO RENDER BACKEND
         // =================================================
 
         const response =
             await fetch(
-                "/api/predict",
+                RENDER_BACKEND_URL + "/predict",
                 {
                     method: "POST",
                     body: formData
