@@ -1,0 +1,218 @@
+{
+  "plantdoc_to_farmguardian": {
+    "0": {
+      "plantdoc_class": "Strawberry Healthy",
+      "plantdoc_raw": "Healthy",
+      "plant": "Strawberry",
+      "farmguardian_class": "Strawberry___healthy",
+      "mappable": true
+    },
+    "1": {
+      "plantdoc_class": "Strawberry Leaf Scorch",
+      "plantdoc_raw": "Leaf Scorch",
+      "plant": "Strawberry",
+      "farmguardian_class": "Strawberry___Leaf_scorch",
+      "mappable": true
+    },
+    "2": {
+      "plantdoc_class": "Potato Early Blight",
+      "plantdoc_raw": "Early Blight",
+      "plant": "Potato",
+      "farmguardian_class": "Potato___Early_blight",
+      "mappable": true
+    },
+    "3": {
+      "plantdoc_class": "Potato Healthy",
+      "plantdoc_raw": "Healthy",
+      "plant": "Potato",
+      "farmguardian_class": "Potato___healthy",
+      "mappable": true
+    },
+    "4": {
+      "plantdoc_class": "Potato Late Blight",
+      "plantdoc_raw": "Late Blight",
+      "plant": "Potato",
+      "farmguardian_class": "Potato___Late_blight",
+      "mappable": true
+    },
+    "5": {
+      "plantdoc_class": "Grape Black Rot",
+      "plantdoc_raw": "Black Rot",
+      "plant": "Grape",
+      "farmguardian_class": "Grape___Black_rot",
+      "mappable": true
+    },
+    "6": {
+      "plantdoc_class": "Grape Esca (Black Measles)",
+      "plantdoc_raw": "Esca (Black Measles)",
+      "plant": "Grape",
+      "farmguardian_class": "Grape___Esca_(Black_Measles)",
+      "mappable": true
+    },
+    "7": {
+      "plantdoc_class": "Grape Healthy",
+      "plantdoc_raw": "Healthy",
+      "plant": "Grape",
+      "farmguardian_class": "Grape___healthy",
+      "mappable": true
+    },
+    "8": {
+      "plantdoc_class": "Grape Leaf Blight",
+      "plantdoc_raw": "Leaf Blight",
+      "plant": "Grape",
+      "farmguardian_class": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+      "mappable": true
+    },
+    "9": {
+      "plantdoc_class": "Apple Apple Scab",
+      "plantdoc_raw": "Apple Scab",
+      "plant": "Apple",
+      "farmguardian_class": "Apple___Apple_scab",
+      "mappable": true
+    },
+    "10": {
+      "plantdoc_class": "Apple Black Rot",
+      "plantdoc_raw": "Black Rot",
+      "plant": "Apple",
+      "farmguardian_class": "Apple___Black_rot",
+      "mappable": true
+    },
+    "11": {
+      "plantdoc_class": "Apple Cedar Apple Rust",
+      "plantdoc_raw": "Cedar Apple Rust",
+      "plant": "Apple",
+      "farmguardian_class": "Apple___Cedar_apple_rust",
+      "mappable": true
+    },
+    "12": {
+      "plantdoc_class": "Apple Healthy",
+      "plantdoc_raw": "Healthy",
+      "plant": "Apple",
+      "farmguardian_class": "Apple___healthy",
+      "mappable": true
+    },
+    "13": {
+      "plantdoc_class": "Tomato Bacterial Spot",
+      "plantdoc_raw": "Bacterial Spot",
+      "plant": "Tomato",
+      "farmguardian_class": "Tomato___Bacterial_spot",
+      "mappable": true
+    },
+    "14": {
+      "plantdoc_class": "Tomato Early Blight",
+      "plantdoc_raw": "Early Blight",
+      "plant": "Tomato",
+      "farmguardian_class": "Tomato___Early_blight",
+      "mappable": true
+    },
+    "15": {
+      "plantdoc_class": "Tomato Healthy",
+      "plantdoc_raw": "Healthy",
+      "plant": "Tomato",
+      "farmguardian_class": "Tomato___healthy",
+      "mappable": true
+    },
+    "16": {
+      "plantdoc_class": "Tomato Late Blight",
+      "plantdoc_raw": "Late Blight",
+      "plant": "Tomato",
+      "farmguardian_class": "Tomato___Late_blight",
+      "mappable": true
+    },
+    "17": {
+      "plantdoc_class": "Tomato Septoria Leaf Spot",
+      "plantdoc_raw": "Septoria Leaf Spot",
+      "plant": "Tomato",
+      "farmguardian_class": "Tomato___Septoria_leaf_spot",
+      "mappable": true
+    },
+    "18": {
+      "plantdoc_class": "Tomato Yellow Leaf Curl Virus",
+      "plantdoc_raw": "Yellow Leaf Curl Virus",
+      "plant": "Tomato",
+      "farmguardian_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "mappable": true
+    },
+    "19": {
+      "plantdoc_class": "Bell Pepper Bacterial Spot",
+      "plantdoc_raw": "Bacterial Spot",
+      "plant": "Pepper, bell",
+      "farmguardian_class": "Pepper,_bell___Bacterial_spot",
+      "mappable": true
+    },
+    "20": {
+      "plantdoc_class": "Bell Pepper Healthy",
+      "plantdoc_raw": "Healthy",
+      "plant": "Pepper, bell",
+      "farmguardian_class": "Pepper,_bell___healthy",
+      "mappable": true
+    },
+    "21": {
+      "plantdoc_class": "Corn Cercospora Leaf Spot",
+      "plantdoc_raw": "Cercospora Leaf Spot",
+      "plant": "Corn",
+      "farmguardian_class": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+      "mappable": true
+    },
+    "22": {
+      "plantdoc_class": "Corn Common Rust",
+      "plantdoc_raw": "Common Rust",
+      "plant": "Corn",
+      "farmguardian_class": "Corn_(maize)___Common_rust_",
+      "mappable": true
+    },
+    "23": {
+      "plantdoc_class": "Corn Healthy",
+      "plantdoc_raw": "Healthy",
+      "plant": "Corn",
+      "farmguardian_class": "Corn_(maize)___healthy",
+      "mappable": true
+    },
+    "24": {
+      "plantdoc_class": "Corn Northern Leaf Blight",
+      "plantdoc_raw": "Northern Leaf Blight",
+      "plant": "Corn",
+      "farmguardian_class": "Corn_(maize)___Northern_Leaf_Blight",
+      "mappable": true
+    },
+    "25": {
+      "plantdoc_class": "Cherry Healthy",
+      "plantdoc_raw": "Healthy",
+      "plant": "Cherry",
+      "farmguardian_class": "Cherry_(including_sour)___healthy",
+      "mappable": true
+    },
+    "26": {
+      "plantdoc_class": "Cherry Powdery Mildew",
+      "plantdoc_raw": "Powdery Mildew",
+      "plant": "Cherry",
+      "farmguardian_class": "Cherry_(including_sour)___Powdery_mildew",
+      "mappable": true
+    },
+    "27": {
+      "plantdoc_class": "Peach Bacterial Spot",
+      "plantdoc_raw": "Bacterial Spot",
+      "plant": "Peach",
+      "farmguardian_class": "Peach___Bacterial_spot",
+      "mappable": true
+    },
+    "28": {
+      "plantdoc_class": "Peach Healthy",
+      "plantdoc_raw": "Healthy",
+      "plant": "Peach",
+      "farmguardian_class": "Peach___healthy",
+      "mappable": true
+    }
+  },
+  "unmappable_farmguardian_classes": [
+    "Blueberry___healthy",
+    "Orange___Haunglongbing_(Citrus_greening)",
+    "Raspberry___healthy",
+    "Soybean___healthy",
+    "Squash___Powdery_mildew",
+    "Tomato___Leaf_Mold",
+    "Tomato___Spider_mites Two-spotted_spider_mite",
+    "Tomato___Target_Spot",
+    "Tomato___Tomato_mosaic_virus"
+  ]
+}
